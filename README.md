@@ -59,4 +59,5 @@
 
 项目地址
 -------
+项目可访问于 10:00 - 22:00 
 [alpha版](https://qticket-uzybxw.c9users.io/)
