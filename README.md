@@ -59,5 +59,5 @@
 
 项目地址
 -------
-项目可访问于 20:00 - 22:00 
+正式版 [https://linkf.ml/](https://linkf.ml/)
 [alpha版](https://qticket-uzybxw.c9users.io/)
