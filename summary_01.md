@@ -22,7 +22,7 @@
   * 熟悉 Nodejs, 了解 Express 框架、RESTAPI、ES7
   * 能编写轻量级 Nodejs 爬虫
   * 了解 MongoDB、MySQL、SQLserver
-  * 熟悉 Bootstrap 框架、了解 jQuery、Ajax技术
+  * 熟悉 Bootstrap 框架、了解 jQuery、Ajax 技术
   * 熟悉 Chrome 开发者工具
   * 掌握以下主修课程
     -  C 语言程序设计
