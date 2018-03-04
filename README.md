@@ -57,7 +57,3 @@
   2. 2-3周完成逻辑计算模块
   3. 1周完成管理员模块
 
-项目地址
--------
-正式版 [https://linkf.ml/](https://linkf.ml/)
-[alpha版](https://qticket-uzybxw.c9users.io/)
