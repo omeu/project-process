@@ -29,6 +29,7 @@
 
 个人技能
 -------
+* 熟悉 Linux 基础命令，掌握 shell 脚本，大概了解 Linux 主流发行版本
 * 熟悉 Nodejs，了解 Express 框架、RESTAPI、ES7
 * 可编写轻量级 Nodejs 爬虫
 * 熟悉 Chrome 开发者工具、了解 Ajax
